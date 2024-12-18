@@ -44,5 +44,5 @@ const createOrder = async (req: Request, res: Response) => {
 };
 
 export const orderController = {
-    createOrder
-}
+  createOrder,
+};
